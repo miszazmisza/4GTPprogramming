@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 		setlocale(LC_ALL,"");
 		
 		
-		snprintf(napis, 50,"Ile: %04d , cena: %.2lf, jakoœæ: %x \n",litry,cena,jakosc);
+		snprintf(napis, 50,"Ile: %04d , cena: %.2lf, jakoÅ“Ã¦: %x \n",litry,cena,jakosc);
 		//cout<<litry<<"\n"<<cena<<"\n"<<napis;
 		zapis<<napis;
 	}
