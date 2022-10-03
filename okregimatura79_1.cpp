@@ -46,6 +46,6 @@ void okregi() {
     }
     else zlicz0++;
   }
-  cout << "W I æwiartce: " << zlicz1 << endl<< "w II: " << zlicz2 << endl<< "w III: " << zlicz3 << endl<< "w IV: "
-   << zlicz4 << endl<< "w ¿adnej æwiartce: " << zlicz0 << endl;
+  cout << "W I Ã¦wiartce: " << zlicz1 << endl<< "w II: " << zlicz2 << endl<< "w III: " << zlicz3 << endl<< "w IV: "
+   << zlicz4 << endl<< "w Â¿adnej Ã¦wiartce: " << zlicz0 << endl;
 }
